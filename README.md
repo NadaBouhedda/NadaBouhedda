@@ -1,4 +1,4 @@
-## Hello there General Kenobi
+## Hello there
 
 <!--
 **NadaBouhedda/NadaBouhedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
